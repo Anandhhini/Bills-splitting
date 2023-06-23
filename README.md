@@ -10,7 +10,7 @@ public class BillSplitter {
             {"TEA/COFFEE", "750", "CHAITHANYA", "DIVYA"}
         };
 
-       //  Create a HashMap to store //the individual amounts
+       //  Create a HashMap to store //the individual amounts//
         HashMap<String, Integer> individualAmounts = new HashMap<String, Integer>();
         individualAmounts.put("ANAND", 0);
         individualAmounts.put("BALAJI", 0);
